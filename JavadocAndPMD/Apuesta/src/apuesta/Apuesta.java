@@ -7,7 +7,7 @@ package apuesta;
  * 
  * @author fjmiguel
  * @version 1.0v
- * @see 
+ * @see class reference "CasaApuestas"
  */
 public class Apuesta {
 
